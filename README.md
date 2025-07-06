@@ -3,7 +3,7 @@
 This Flutter app demonstrates secure user authentication using **biometrics (fingerprint/face)** with a **fallback to 4-digit PIN** login — similar to apps like CRED or Paytm.
 
 ---
-video link : https://drive.google.com/file/d/1n6JLpU08zdNhx1MRhx_uNPp3Vs8l0LMs/view?usp=sharing
+- video link : https://drive.google.com/file/d/1n6JLpU08zdNhx1MRhx_uNPp3Vs8l0LMs/view?usp=sharing
 ---
 
 
